@@ -1,7 +1,7 @@
 import os
 import json
 
-def load_video_paths_from_config(config_path=r"C:\Users\kskn1\Desktop\yolo\PythonScripts\video_config.json"):
+def load_video_paths_from_config(config_path=r"C:\Users\kskn1\Desktop\KOD\OptiSafeAI-Model\Scripts\video_config.json"):
     """
     Loads video paths from a JSON configuration file.
     """

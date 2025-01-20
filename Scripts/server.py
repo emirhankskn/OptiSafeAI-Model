@@ -1,5 +1,5 @@
 from flask import Flask, Response, jsonify
-from video_streamer import StreamManager
+from Scripts.video_streamer import StreamManager
 
 class VideoServer:
     """

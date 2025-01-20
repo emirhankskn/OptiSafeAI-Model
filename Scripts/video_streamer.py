@@ -1,5 +1,5 @@
 import cv2
-from detection import PersonDetector
+from Scripts.detection import PersonDetector
 
 class VideoStreamer:
     """
